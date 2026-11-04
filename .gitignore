@@ -1,0 +1,9 @@
+﻿*.pdf
+*.zip
+*.cls
+*.bst
+*.tex
+*.bib
+*.json
+*.png
+__pycache__/
